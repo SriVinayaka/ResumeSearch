@@ -1,8 +1,5 @@
-# ResumeSearch
-ResumeSearch
+# G2B7_JS_GradedProject2
 
-UserName:
-username
-
-Password:
-password
+For login
+username: username
+password: password
