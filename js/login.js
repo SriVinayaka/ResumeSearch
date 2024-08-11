@@ -12,7 +12,7 @@ function login() {
 
     if (username === 'username' && password === 'password') {
       localStorage.setItem('loggedIn', 'true');
-      window.location.href = '../html/resume.html';
+      window.location.href = './html/resume.html';
     } else {
       errorMessage.textContent = 'Invalid username/password';
     }
